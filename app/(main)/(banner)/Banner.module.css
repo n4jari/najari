@@ -1,0 +1,98 @@
+.container {
+  position: relative;
+  width: 100%;
+  height: 300px;
+}
+
+.bg {
+  background-image: url("../../../public/bg.png");
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
+  opacity: 0.3;
+}
+
+.forground {
+  position: absolute;
+  width: 200px;
+  right: 13%;
+  bottom: -10px;
+}
+
+.forground img {
+  opacity: 0.8;
+  filter: grayscale(40%);
+  width: 100%;
+  height: auto;
+}
+
+.activity {
+  margin-top: 25px;
+}
+
+.activity img {
+  width: 25px;
+  height: 25px;
+  margin: 0 10px;
+}
+
+.subject {
+  position: absolute;
+  left: 13%;
+  top: 60px;
+  text-shadow: 1px 1px 8px rgba(0, 0, 0, 0.5);
+}
+
+.code {
+  color: #ffc107;
+  font-size: 1.1rem;
+  margin: 0 3px;
+}
+
+.words {
+  display: flex;
+  align-items: center;
+  font-size: 1.1rem;
+  color: #f1f1f1;
+  width: none;
+}
+
+.title {
+  animation: opacity 3s;
+  color: #f1f1f1;
+  font-weight: bold;
+  font-size: 3rem;
+}
+
+@keyframes opacity {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@media screen and (max-width: 1200px) {
+  .forground {
+    display: none;
+  }
+  .subject {
+    left: 50%;
+    text-align: center;
+    width: 100%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .words {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .container{
+    margin-top: 70px;
+  }
+}

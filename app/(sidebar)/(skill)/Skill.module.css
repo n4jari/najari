@@ -1,0 +1,33 @@
+.container {
+  padding-bottom: 20px;
+  border-bottom: 1px solid #444;
+}
+
+.title {
+  color: #f1f1f1;
+  font-size: 1rem;
+}
+
+.subject {
+  font-size: 0.9rem;
+  display: flex;
+  justify-content: space-between;
+  color: #f1f1f1;
+  margin-bottom: 5px;
+}
+.content:not(:last-child) {
+  margin-bottom: 15px;
+}
+.subject span:nth-child(2) {
+  color: #888;
+}
+.bar {
+  width: 100%;
+  background: #111;
+  height: 4px;
+}
+
+.bar div {
+  background: #ffc107;
+  height: 100%;
+}

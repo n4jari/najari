@@ -1,0 +1,28 @@
+.container {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  justify-items: center;
+  background: #2d2d39;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.15);
+  padding: 5px 20px;
+  color: #888;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+}
+
+.email {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.email a {
+  color: #888;
+  text-decoration: none;
+}
+
+.email a:hover {
+  color: #f1f1f1;
+  transition-duration: 0.3s;
+}

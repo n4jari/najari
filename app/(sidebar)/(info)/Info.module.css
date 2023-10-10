@@ -1,0 +1,16 @@
+.container {
+  border-bottom: 1px solid #444;
+  font-size: 0.9rem;
+}
+.content {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 0;
+  line-height: 8px;
+}
+.content span:first-child {
+  color: #f1f1f1;
+}
+.content span:last-child {
+  color: #888;
+}

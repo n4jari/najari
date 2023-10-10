@@ -1,0 +1,25 @@
+.container {
+  font-size: 0.9rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.title {
+  color: #f1f1f1;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.links a {
+  color: #888;
+  text-decoration: none;
+  margin-left: 15px;
+}
+
+.links a:hover {
+  color: #f1f1f1;
+  transition-delay: 0.1s;
+  transition-duration: 0.5s;
+}
