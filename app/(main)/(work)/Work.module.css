@@ -19,7 +19,7 @@
   flex-wrap: wrap;
 /*   justify-content: space-between; */
   margin: 20px 0;
-  gap: 1.5vw 0;
+  gap: 1.5vw ;
 }
 
 .items {
