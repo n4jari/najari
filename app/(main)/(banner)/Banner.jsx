@@ -42,7 +42,7 @@ const Banner = () => {
 
                 <div className={styles.forground}>
                     <img
-                        src="/fg.png"
+                        src="./fg.png"
                         alt="AmiReza Najari"
                     />
                 </div>
