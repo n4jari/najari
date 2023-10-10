@@ -17,15 +17,15 @@
 .content {
   display: flex;
   flex-wrap: wrap;
-/*   justify-content: space-between; */
+  justify-content: space-between;
   margin: 20px 0;
-  gap: 1.5vw ;
+  gap: 1.5vw 0;
 }
 
 .items {
   text-transform: uppercase;
   padding: 1.3vw;
-  width: 31%;
+  width: 32%;
   box-shadow: 0 0 6px rgba(0, 0, 0, 0.15);
   background-color: #2d2d39;
 }
