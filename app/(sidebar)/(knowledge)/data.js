@@ -6,7 +6,10 @@ export const items = [
         text: "Responsive design"
     },
     {
-        text: "Redux Toolkit, RTK Query"
+        text: "Redux Toolkit, Thunk, RTK Query"
+    },
+    {
+        text: "Context API"
     },
     {
         text: "Material UI"
