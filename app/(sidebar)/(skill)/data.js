@@ -17,6 +17,6 @@ export const items = [
     },
     {
         skill: "Next JS",
-        percent: "50%"
+        percent: "30%"
     }
 ]
