@@ -8,9 +8,9 @@ export const items = [
         to: "2020-12-31",
         period: "6 month",
         location: "Tehran, Iran",
-        description: `Bertina company operates in the field of hosting and server services, and I as
+        description: `Bertina company operates in the field of hosting and server services.
 I was working as a technical support part-time in this company. configuration
-Hosting and services, including: Domain configuration, SSL, etc., including activities
+Hosting , including: Domain configuration, SSL, etc., including activities
 I was in this company.`,
     },
     {
