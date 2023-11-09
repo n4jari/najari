@@ -8,7 +8,10 @@ export const items = [
         to: "2020-12-31",
         period: "6 month",
         location: "Tehran, Iran",
-        description: "Bertina works in the field of hosting and server services and I worked as a technical support in this company.",
+        description: `Bertina company operates in the field of hosting and server services, and I as
+I was working as a technical support part-time in this company. configuration
+Hosting and services, including: Domain configuration, SSL, etc., including activities
+I was in this company.`,
     },
     {
         title: "Front-end developer",
@@ -17,7 +20,7 @@ export const items = [
         type: "Full-time",
         from: "23-10-2023",
         to: "Working now",
-        period: "",
+        period: "...",
         location: "Tehran, Iran",
         description: "Arman Capital Company operates in the field of investing and buying and selling shares of other companies. As a front-end programmer, I played a role in the development of this company's systems.",
     }
