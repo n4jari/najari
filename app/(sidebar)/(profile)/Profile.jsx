@@ -14,7 +14,6 @@ const Profile = () => {
                     <AiOutlineMore />
                 </div>
             )}
-
             <Image
                 src="./profile.jpg"
                 alt="amireza najari"

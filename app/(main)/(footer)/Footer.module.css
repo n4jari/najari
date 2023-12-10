@@ -9,6 +9,7 @@
   color: #888;
   font-size: 0.8rem;
   text-transform: uppercase;
+  border-radius: 8px;
 }
 
 .email {

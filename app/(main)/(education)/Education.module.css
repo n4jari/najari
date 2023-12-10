@@ -1,11 +1,12 @@
 .container {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   justify-items: center;
   padding: 15px;
   background: #2d2d39;
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
   margin: 20px 0;
+  border-radius: 8px;
 }
 
 .content span:first-child {

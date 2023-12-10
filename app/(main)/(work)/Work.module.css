@@ -6,6 +6,7 @@
   font-size: 1.3rem;
 }
 .title select {
+  border-radius: 8px;
   width: 150px;
   padding: 0 10px;
   background-color: #2d2d39;
@@ -23,6 +24,7 @@
 }
 
 .items {
+  border-radius: 8px;
   text-transform: uppercase;
   padding: 1.3vw;
   width: 32%;
@@ -40,10 +42,11 @@
 
 .label span:last-child {
   color: #888;
-  font-size: .9rem;
+  font-size: 0.9rem;
 }
 
 .items img {
+  border-radius: 8px;
   display: block;
   opacity: 0.9;
   margin: 0.8vw auto;
@@ -58,6 +61,7 @@
   display: flex;
 }
 .description {
+  border-radius: 8px;
   animation: fade 0.5s ease-in-out;
   display: none;
   justify-content: center;
@@ -71,7 +75,6 @@
   font-size: 0.9rem;
   color: #888;
   border: 1px dashed #888;
-  border-radius: 2px;
   padding: 10px;
 }
 
@@ -82,7 +85,7 @@
 }
 .btn a {
   text-decoration: none;
-  font-size: .9rem;
+  font-size: 0.9rem;
   font-weight: bold;
   color: #ffc107;
 }
@@ -114,15 +117,14 @@
   .items img {
     height: 13vw;
   }
-  .description{
+  .description {
     height: 13vw;
   }
-
 }
 
 @media screen and (max-width: 900px) {
   .title {
-    font-size:1.4rem;
+    font-size: 1.4rem;
   }
   .content {
     grid-template-columns: repeat(2, auto);
@@ -169,7 +171,7 @@
   .label {
     font-size: 1.2rem;
   }
- 
+
   .title select {
     width: 30vw;
   }
