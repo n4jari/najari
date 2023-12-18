@@ -8,7 +8,7 @@ export const items = [
         value: "Shamsipour University (Tehran)"
     },
     {
-        label: "6 Months",
+        label: "9 Months",
         value: "Experience"
     },
 ]
