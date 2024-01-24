@@ -15,7 +15,7 @@ const Profile = () => {
                 </div>
             )}
             <Image
-                src="/profile.jpg"
+                src="./profile.jpg"
                 alt="amireza najari"
                 className={styles.img}
                 width={100}
