@@ -15,6 +15,7 @@
   color: #f1f1f1;
   margin-bottom: 5px;
 }
+
 .content:not(:last-child) {
   margin-bottom: 15px;
 }
@@ -29,5 +30,6 @@
 
 .bar div {
   background: #ffc107;
+  border-radius: 8px;
   height: 100%;
 }

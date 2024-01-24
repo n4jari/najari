@@ -27,15 +27,12 @@ export const items = [
     text: "Axios",
   },
   {
-    text: "Familiar with Git",
+    text: "Formik & Yup",
   },
   {
-    text: "Plotly.js",
+    text: "Git",
   },
   {
-    text: "Familiar with Docker",
-  },
-  {
-    text: "Familiar with Design Pattern",
+    text: "Chart library",
   },
 ];

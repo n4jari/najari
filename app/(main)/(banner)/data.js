@@ -1,18 +1,18 @@
 export const activityItems = [
     {
-        link: "./btc.png",
+        link: "/btc.png",
         title: "Bitcoin"
     },
     {
-        link: "./dota2.png",
+        link: "/dota2.png",
         title: "Dota2"
     },
     {
-        link: "./dubi.png",
+        link: "/dubi.png",
         title: "Dubi"
     },
     {
-        link: "./netflix.png",
+        link: "/netflix.png",
         title: "Netflix"
     },
 ]
