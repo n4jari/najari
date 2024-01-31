@@ -8,15 +8,19 @@ export const items = [
     percent: "80%",
   },
   {
-    skill: "JS",
-    percent: "50%",
+    skill: "JavaScript",
+    percent: "60%",
   },
   {
     skill: "React JS",
-    percent: "70%",
+    percent: "80%",
   },
   {
     skill: "Next JS",
-    percent: "30%",
+    percent: "50%",
+  },
+  {
+    skill: "TypeScript",
+    percent: "50%",
   },
 ];
