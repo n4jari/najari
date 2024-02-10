@@ -79,7 +79,7 @@ export const workItems = [
         level: "Mid",
         img: "./quiz.png",
         link: "https://n4jari.github.io/quiz-app",
-        description: "Next JS",
+        description: "Next JS - TypeScript",
         id: 10
     }
 ]
