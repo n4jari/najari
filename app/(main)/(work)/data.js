@@ -71,7 +71,7 @@ export const workItems = [
         level: "Mid",
         img: "./skywallet.png",
         link: "https://sky-wallet.vercel.app",
-        description: "React JS - Redux - Material UI - Json Server",
+        description: "Next JS - Typescript - Tailwind - Json Server",
         id: 9
     },
     {
