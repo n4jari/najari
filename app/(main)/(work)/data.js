@@ -70,7 +70,7 @@ export const workItems = [
         label: "Sky Wallet",
         level: "Mid",
         img: "./skywallet.png",
-        link: "https://n4jari.github.io/sky-wallet",
+        link: "https://sky-wallet.vercel.app",
         description: "React JS - Redux - Material UI - Json Server",
         id: 9
     },
