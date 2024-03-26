@@ -75,7 +75,7 @@ export const workItems = [
     label: "Quiz App",
     level: "Mid",
     img: "quiz.png",
-    link: "https://n4jari.github.io/quiz-app",
+    link: "https://quiz-app-nine-wine.vercel.app",
     description: "Next JS - TypeScript",
     id: 10,
   },
