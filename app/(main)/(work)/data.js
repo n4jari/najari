@@ -44,7 +44,7 @@ export const workItems = [
     level: "Mid",
     img: "todo.png",
     link: "https://n4jari.github.io/todo-app",
-    description: "React JS - Material UI",
+    description: "React JS - Material UI - Context API",
     id: 6,
   },
   {
@@ -52,7 +52,7 @@ export const workItems = [
     level: "Mid",
     img: "students.png",
     link: "https://n4jari.github.io/students-management",
-    description: "React JS - Bootstrap - Json Server - Formik & Yup",
+    description: "React JS - Bootstrap - Json Server - Formik & Yup - Context API",
     id: 7,
   },
   {
@@ -60,7 +60,7 @@ export const workItems = [
     level: "Mid",
     img: "portfolio.png",
     link: "https://n4jari.github.io/portfolio",
-    description: "React JS - Material UI - Json Server - Formik & Yup",
+    description: "React JS - Material UI - Json Server - Formik & Yup - Context API",
     id: 8,
   },
   {
@@ -68,7 +68,7 @@ export const workItems = [
     level: "Mid",
     img: "skywallet.png",
     link: "https://sky-wallet.vercel.app",
-    description: "Next JS - Typescript - Tailwind - Json Server",
+    description: "Next JS - Typescript - Tailwind - Json Server - Context API",
     id: 9,
   },
   {
@@ -76,7 +76,7 @@ export const workItems = [
     level: "Mid",
     img: "quiz.png",
     link: "https://quiz-app-nine-wine.vercel.app",
-    description: "Next JS - TypeScript",
+    description: "Next JS - TypeScript - Context API",
     id: 10,
   }, 
   {
@@ -84,7 +84,7 @@ export const workItems = [
     level: "Pro",
     img: "admin.png",
     link: "https://admin-two-virid.vercel.app/",
-    description: "Next JS - MongoDB - Tailwind - Context API",
+    description: "Next JS - Mongo Atlas - Mongoose - Tailwind - Context API",
     id: 10,
   },
 ];
