@@ -78,5 +78,13 @@ export const workItems = [
     link: "https://quiz-app-nine-wine.vercel.app",
     description: "Next JS - TypeScript",
     id: 10,
+  }, 
+  {
+    label: "Admin dashboard",
+    level: "Pro",
+    img: "admin.png",
+    link: "https://admin-two-virid.vercel.app/",
+    description: "Next JS - MongoDB - Tailwind - Context API",
+    id: 10,
   },
 ];
