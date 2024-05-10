@@ -1,4 +1,5 @@
 import styles from "./Skill.module.css";
+import SkillBars from "./SkillBars";
 import { items } from "./data";
 
 const Skill = () => {
@@ -10,11 +11,11 @@ const Skill = () => {
           <div className={styles.content} key={index}>
             <div className={styles.subject}>
               <span>{item.skill}</span>
-              <span>{item.percent}</span>
+              <span>{item.level}</span>
             </div>
 
             <div className={styles.bar}>
-              <div style={{ width: item.percent }} />
+              <SkillBars level={item.level} />
             </div>
           </div>
         );

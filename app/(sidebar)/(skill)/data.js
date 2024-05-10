@@ -1,26 +1,26 @@
 export const items = [
   {
     skill: "HTML",
-    percent: "90%",
+    level: "master",
   },
   {
     skill: "CSS",
-    percent: "80%",
+    level: "master",
   },
   {
     skill: "JavaScript",
-    percent: "60%",
+    level: "intermediate",
   },
   {
     skill: "React JS",
-    percent: "80%",
+    level: "advance",
   },
   {
     skill: "Next JS",
-    percent: "50%",
+    level: "intermediate",
   },
   {
     skill: "TypeScript",
-    percent: "50%",
+    level: "intermediate",
   },
 ];

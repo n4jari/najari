@@ -21,15 +21,17 @@
 }
 .subject span:nth-child(2) {
   color: #888;
+  text-transform: capitalize;
 }
 .bar {
   width: 100%;
-  background: #111;
   height: 4px;
+  display: flex;
+  gap: 4px;
 }
-
 .bar div {
-  background: #ffc107;
   border-radius: 8px;
   height: 100%;
+  width: 100%;
+  background: #111;
 }
