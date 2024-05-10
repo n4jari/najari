@@ -3,14 +3,12 @@ export const items = [
     text: "Functional components",
   },
   {
-    text: "Responsive design",
-  },
-  {
-    text: "Redux Toolkit, Thunk, RTK Query",
-  },
-  {
     text: "Context API",
   },
+  {
+    text: "Redux Toolkit",
+  },
+
   {
     text: "Material UI",
   },
@@ -19,6 +17,12 @@ export const items = [
   },
   {
     text: "Bootstrap",
+  },
+  {
+    text: "Rest API",
+  },
+  {
+    text: "Graph QL",
   },
   {
     text: "ES6",
@@ -33,6 +37,6 @@ export const items = [
     text: "Git",
   },
   {
-    text: "Chart library",
+    text: "Charts library",
   },
 ];
