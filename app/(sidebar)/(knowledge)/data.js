@@ -8,7 +8,6 @@ export const items = [
   {
     text: "Redux Toolkit",
   },
-
   {
     text: "Material UI",
   },
@@ -35,6 +34,9 @@ export const items = [
   },
   {
     text: "Git",
+  },
+  {
+    text: "Web Socket",
   },
   {
     text: "Charts library",

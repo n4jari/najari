@@ -1,11 +1,11 @@
 export const items = [
   {
     skill: "HTML",
-    level: "master",
+    level: "professional",
   },
   {
     skill: "CSS",
-    level: "master",
+    level: "professional",
   },
   {
     skill: "JavaScript",
@@ -13,7 +13,7 @@ export const items = [
   },
   {
     skill: "React JS",
-    level: "advance",
+    level: "professional",
   },
   {
     skill: "Next JS",

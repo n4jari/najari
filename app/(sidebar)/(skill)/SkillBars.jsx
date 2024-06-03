@@ -5,7 +5,6 @@ const SkillBars = ({ level }) => {
         <div style={{ backgroundColor: "#ffc107" }} />
         <div />
         <div />
-        <div />
       </>
     );
   }
@@ -15,24 +14,12 @@ const SkillBars = ({ level }) => {
         <div style={{ backgroundColor: "#ffc107" }} />
         <div style={{ backgroundColor: "#ffc107" }} />
         <div />
-        <div />
       </>
     );
   }
-  if (level === "advance") {
+  if (level === "professional") {
     return (
       <>
-        <div style={{ backgroundColor: "#ffc107" }} />
-        <div style={{ backgroundColor: "#ffc107" }} />
-        <div style={{ backgroundColor: "#ffc107" }} />
-        <div />
-      </>
-    );
-  }
-  if (level === "master") {
-    return (
-      <>
-        <div style={{ backgroundColor: "#ffc107" }} />
         <div style={{ backgroundColor: "#ffc107" }} />
         <div style={{ backgroundColor: "#ffc107" }} />
         <div style={{ backgroundColor: "#ffc107" }} />

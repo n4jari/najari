@@ -11,8 +11,8 @@ const CV = () => {
             </p>
 
             <p className={styles.links}>
-                <Link href="/FA-Najari-CV.pdf">FA</Link>
-                <Link href="/ENG-Najari-CV.pdf">ENG</Link>
+                {/* <Link href="/FA-Najari-CV.pdf">FA</Link> */}
+                <Link href="/AmirrezaNajari-CV.pdf" target='_blank'>ENG</Link>
             </p>
         </div>
     )
