@@ -8,7 +8,7 @@ export const items = [
     value: "Babaei University (Qazvin)",
   },
   {
-    label: "1.4 years",
+    label: "1.6 years",
     value: "Experience",
   },
 ];
